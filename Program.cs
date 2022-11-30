@@ -43,7 +43,7 @@
 // Console.WriteLine("Укажите, какое количество чисел Вы хотите ввести в программу:");
 // int number = int.Parse(Console.ReadLine()!);
 // int COUNT = InputNumber(number);
-// Console.WriteLine($"Количество введённых Вами чисеk больше нуля составляет {COUNT}");
+// Console.WriteLine($"Количество введённых Вами чисел больше нуля составляет {COUNT}");
 
 // int InputNumber(int n)
 // {
